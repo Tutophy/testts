@@ -1,0 +1,8 @@
+{
+  "name": "rabt",
+  "description": "A modern social media platform with an advanced timeline, stories, and rich media posts, connecting people together.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
